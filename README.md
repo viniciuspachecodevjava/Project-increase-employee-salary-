@@ -1,4 +1,4 @@
-#Increase Employee Percentage salary
+# Increase Employee Percentage salary
 
 In this project was used concepts of lists, constructors, encapsulation, conditional structure and repetitive structure, using the version more recently of java 8
 
